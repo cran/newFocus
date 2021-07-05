@@ -1,10 +1,10 @@
-95d7b26fc74c87e6757f8e13109b908d *DESCRIPTION
+c310a7caf1c6b6aec0f0e6087af38440 *DESCRIPTION
 370c755d433b2a853df4c6a9f671c6e1 *NAMESPACE
-8a37ab86bf33c2cffdd3108923cfbeba *R/focus_discovery.R
-8fbc044bb95f5efa188772739c795855 *build/partial.rdb
+5cdc4d8a62c02304896444d7084d2d19 *R/focus_discovery.R
+c718ad982d77c28bf44ec7b6415878ae *build/partial.rdb
 29b7fafb4d67accfb4f267845614ca94 *man/choosepath.Rd
 b3564972c7a08638022ca52b7b259cae *man/ctbab.Rd
 dadfd7ff4f65694a0a27929915804228 *man/discov.Rd
-b8323c8a7115bf828d76802b655d8fc3 *man/newFocus-package.Rd
-af5fb1a805e3d55e689252eea616f3a6 *man/newFocus.Rd
+dde698c2f1162d094907849e03979d50 *man/newFocus-package.Rd
+2f49bce8bd9edb8a6c2114ea7591dbc5 *man/newFocus.Rd
 50fccb02eb2ebf3d3d59bc3e8fd73ced *man/pick.Rd

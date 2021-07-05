@@ -151,7 +151,7 @@ choosepath = function(startingindex = 1, fsets, lowdv){
 
 pick = function(focus_obj, setofinterest){
 
-  dvf = as.numeric(levels(focus_obj$focus$td))[focus_obj$focus$td] ## 
+  dvf = as.numeric(focus_obj$focus$td)
   flsets = focus_obj$fsets
   vk_set = sapply(flsets, function(i) length(setdiff(i,setofinterest)) )
   

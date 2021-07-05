@@ -36,7 +36,7 @@ newFocus(response, fsets, null, data, maxit = 0, alpha = 0.05, adj = 0)
 }
 
 \value{
-The function will return a focus subject with the lower bound for each focus level node and the focus level nodes
+The function will return a focus subject with the lower bound for each focus level node.
 }
 
 \author{
